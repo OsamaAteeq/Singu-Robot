@@ -1,7 +1,7 @@
 # Singu-Robot
 HRI Group project for Singu the robot's Wizard of Oz prototyping.
 
-#SETUP
+# SETUP
 1) Setup Arduino IDE and Python.
 2) Get both the files.
 3) Connect the robot with your computer.
